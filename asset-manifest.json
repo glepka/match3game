@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/match3game/static/css/main.f0e2090a.css",
-    "main.js": "/match3game/static/js/main.3256be6a.js",
+    "main.css": "/match3game/static/css/main.3d218d7b.css",
+    "main.js": "/match3game/static/js/main.a862a531.js",
     "static/media/white-circle.svg": "/match3game/static/media/white-circle.4fd1962ca8efa49eacc0623d93a9246f.svg",
     "static/media/red-circle.svg": "/match3game/static/media/red-circle.0ab54b5f69072404d687756f06ba59af.svg",
     "static/media/pack.svg": "/match3game/static/media/pack.edaa0a59d97c25bb8ce155295d74a13b.svg",
@@ -23,11 +23,11 @@
     "static/media/image.svg": "/match3game/static/media/image.3496cad6236df4558ff9.svg",
     "index.html": "/match3game/index.html",
     "static/media/cross.svg": "/match3game/static/media/cross.72546844f26bb4840cd1a3d65c730981.svg",
-    "main.f0e2090a.css.map": "/match3game/static/css/main.f0e2090a.css.map",
-    "main.3256be6a.js.map": "/match3game/static/js/main.3256be6a.js.map"
+    "main.3d218d7b.css.map": "/match3game/static/css/main.3d218d7b.css.map",
+    "main.a862a531.js.map": "/match3game/static/js/main.a862a531.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0e2090a.css",
-    "static/js/main.3256be6a.js"
+    "static/css/main.3d218d7b.css",
+    "static/js/main.a862a531.js"
   ]
 }
