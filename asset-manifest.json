@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/match3game/static/css/main.f0e2090a.css",
+    "main.js": "/match3game/static/js/main.3256be6a.js",
+    "static/media/white-circle.svg": "/match3game/static/media/white-circle.4fd1962ca8efa49eacc0623d93a9246f.svg",
+    "static/media/red-circle.svg": "/match3game/static/media/red-circle.0ab54b5f69072404d687756f06ba59af.svg",
+    "static/media/pack.svg": "/match3game/static/media/pack.edaa0a59d97c25bb8ce155295d74a13b.svg",
+    "static/media/green-circle.svg": "/match3game/static/media/green-circle.2c63c64d87e742d26d71728244b9ca56.svg",
+    "static/media/background.svg": "/match3game/static/media/background.4a1414de1df177123b254f53a95e6f37.svg",
+    "static/media/green-back.png": "/match3game/static/media/green-back.d057e6d7f5a0e87c75fd.png",
+    "static/media/background.png": "/match3game/static/media/background.ba7390cd13fec7cac698.png",
+    "static/media/IQOS-Bold.ttf": "/match3game/static/media/IQOS-Bold.51fa2333f12d20e64cad.ttf",
+    "static/media/IQOSSans-Light.ttf": "/match3game/static/media/IQOSSans-Light.49c990ce28955f24b8f8.ttf",
+    "static/media/18+.svg": "/match3game/static/media/18+.df375fe3d001173cf0514f5b54778f9f.svg",
+    "static/media/IQOS-Regular.otf": "/match3game/static/media/IQOS-Regular.85b55d60be1468581139.otf",
+    "static/media/green-pack.png": "/match3game/static/media/green-pack.6b01877eb71041e60386.png",
+    "static/media/red-pack.png": "/match3game/static/media/red-pack.da73e74ca2bc7ba624a6.png",
+    "static/media/blank.png": "/match3game/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "static/media/stick.png": "/match3game/static/media/stick.9a294ebe1a332121b7ae.png",
+    "static/media/click.svg": "/match3game/static/media/click.939a42f61453e73b8f1cb0e1eb344e1a.svg",
+    "static/media/logo.svg": "/match3game/static/media/logo.02f7e409db0a42627ee08799f4314a89.svg",
+    "static/media/cursor.svg": "/match3game/static/media/cursor.e9abc5bb87925791497d78fb79d9e9f6.svg",
+    "static/media/image.svg": "/match3game/static/media/image.3496cad6236df4558ff9.svg",
+    "index.html": "/match3game/index.html",
+    "static/media/cross.svg": "/match3game/static/media/cross.72546844f26bb4840cd1a3d65c730981.svg",
+    "main.f0e2090a.css.map": "/match3game/static/css/main.f0e2090a.css.map",
+    "main.3256be6a.js.map": "/match3game/static/js/main.3256be6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e2090a.css",
+    "static/js/main.3256be6a.js"
+  ]
+}
